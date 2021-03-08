@@ -1,0 +1,4 @@
+# часто в https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore
+# буде все що треба по цьому
+
+/.idea
